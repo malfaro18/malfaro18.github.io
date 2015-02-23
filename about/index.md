@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Welcome!
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,16 +10,18 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a PhD student in the Department of Statistics at NC State University. I graduated from Iowa State University in May 2009 with a Master of Science in Statistics and in 2007 from the University of Costa Rica with a Bachelor of Science in Statistics. 
 
-## Minimal Mistakes is all about:
+## Research Interest:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Spatial Temporal Modeling.
+* Bayesian Methods. 
+* Environmental Applications.
+* Functional Data.
+* Forecasting.
+* Atmospherical Sciences Applications.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## My advisors are:
+
+<a markdown="0" href="http://www4.stat.ncsu.edu/~fuentes/" class="btn"> Dr. Montse Fuentes </a> <a markdown="0" href="http://www4.stat.ncsu.edu/~guinness/" class="btn"> Dr. Joe Guinness </a>
+

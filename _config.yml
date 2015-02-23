@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Marcela Alfaro
 locale:           en_US
 url:              
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Marcela Alfaro
+  avatar: bio-photo-3.jpg
+  bio: "Statistician, PhD Student."
+  email: malfaro@ncsu.edu
   disqus-shortname: 
-  twitter: #username
+  twitter: Fichulina
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: malfaro18
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: malfaro18
   instagram: #username
   lastfm: #username
   tumblr: #username

@@ -25,3 +25,8 @@ I am a PhD student in the Department of Statistics at NC State University. I gra
 
 <a markdown="0" href="http://www4.stat.ncsu.edu/~fuentes/" class="btn"> Dr. Montse Fuentes </a> <a markdown="0" href="http://www4.stat.ncsu.edu/~guinness/" class="btn"> Dr. Joe Guinness </a>
 
+
+
+
+Visit my ['Google Scholar profile'](https://scholar.google.com/citations?user=8Viy0j4AAAAJ&hl=en)
+

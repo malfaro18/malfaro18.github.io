@@ -4,10 +4,6 @@ title: Welcome!
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 I am a Visiting Associate Professor at the [Department of Statistics](http://www.estadistica.ucr.ac.cr/), [University of Costa Rica](http://www.ucr.ac.cr/). I graduated from [Iowa State University](http://www.stat.iastate.edu/) in May 2009 with a Master of Science in Statistics and in 2017 from the [North Carolina State University](http://www.stat.ncsu.edu/), in Raleigh, with a Ph.D. in Statistics. 

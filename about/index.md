@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I am a PhD student in the Department of Statistics at NC State University. I graduated from Iowa State University in May 2009 with a Master of Science in Statistics and in 2007 from the University of Costa Rica with a Bachelor of Science in Statistics. 
+I am a Visiting Associate... PhD student in the Department of Statistics at NC State University. I graduated from Iowa State University in May 2009 with a Master of Science in Statistics and in 2007 from the University of Costa Rica with a Bachelor of Science in Statistics. 
 
 ## Research Interests:
 
